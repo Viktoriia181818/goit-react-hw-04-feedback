@@ -1,0 +1,20 @@
+.feedbackBtn {
+            height: 42px;
+            width: 200px;
+                background: black;
+                border-radius: 25px;
+                color: #ffff;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 19px;
+                border: none;
+                cursor: pointer;
+                position: relative;
+                    transform: translate(337px, 10px);
+    
+        
+}
+
+.feedbackBtn:hover {
+    color: rgb(255, 150, 22);
+}
